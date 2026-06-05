@@ -511,7 +511,7 @@ export default function CakePage() {
             <p style={styles.wishText}>🎂Happy 21st Birthday🎂</p>
             <p style={styles.wishText}>🎂{name}🎂 </p>
             <p style={styles.wishSub}>
-              I hope this day is as wonderful as you My Lady.Meeting you was something I never expected, 
+              I hope this day is as wonderful as you My Lady. Meeting you was something I never expected, 
               yet it became one of the moments I cherish most. 
             </p><br />
             <p style={styles.wishSub}>
